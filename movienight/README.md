@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The idea is an application that allows the user to save and rate movies on its own page. She or he can also recommend their favourite movies to other users. The user can see what other thinks about a movie as well. In this way, when it is time for movie night - no time will be wasted on choosing movie. 
 
-Things you may want to cover:
+To achieve this, the user needs to create an account to be able to save and recommend movies to other members. The ability to search for a movie is also wanted as well as some kind of “others favourites”-page.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+For the server part, Ruby on Rails will be used. Along with the cloud platform Heroku and MongoDB for the movie database. To facilitate the front-end, bootstraps framework is applied along with SCSS scripts.
